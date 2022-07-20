@@ -1,0 +1,19 @@
+2072038_Kathleen Felicia Annabel
+
+Question to ask :
+
+- how to prevent null from closing window
+Dengan memakai alert yang menyatakan bila ada field yang belum diise.
+
+- how to know if a modal succeed or fail
+Bisa menggunakan System.out.println yang menyatakan success bila berhasil dan memberi pesan error apabila gagal.
+
+- how do we sort listview by name
+Dengan menggunakan SortedList 
+SortedList<String> sortedList = new SortedList(name);
+listView.setItems(sortedList);
+
+- how do we sort listview by price
+Dengan menggunakan SortedList 
+SortedList<String> sortedList = new SortedList(price);
+listView.setItems(sortedList);
